@@ -1,0 +1,190 @@
+html,body{
+    height: 100%;
+    margin: 0;
+    font-size: medium;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 400;
+    line-height: 1.8em;
+    color: #666;
+}
+
+.img1{
+    background-image: url(images/maxresdefault.jpg);
+    min-height: 100%;
+}
+.img2{
+    background-image: url(images/HD-wallpaper-one-piece-gear-5-one-piece-monkey-d-luffy.jpg);
+    min-height: 400px;
+}
+.img3{
+    background-image: url(images/maxresdefault\ \(1\).jpg);
+    min-height: 400px;
+}
+.img4{
+    background-image: url(images/image4.jpg);
+    min-height: 400px;
+}
+.img5{
+    background-image: url(images/Nami_3.webp);
+    min-height: 400px;
+}
+.img6{
+    background-image: url(images/usopptitre.jpg);
+    min-height: 400px;
+}
+.img7{
+    background-image: url(images/Tony.Tony.Chopper.full.3508900.jpg);
+    min-height: 400px;
+}
+.img8{
+    background-image: url(images/One-Piece-Nico-Robin.jpg);
+    min-height: 400px;
+}
+.img9{
+    background-image: url(images/franky.jpg);
+    min-height: 400px;
+}
+.img10{
+    background-image: url(images/brook3.webp);
+    min-height: 400px;
+}
+.img11{
+    background-image: url(images/jimbei.jpg);
+    min-height: 400px;
+}
+
+.img1,.img2,.img3, .img4,.img5,.img6,.img7,.img8,.img9,.img10,.img11{
+    position: relative;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.name{
+    position: absolute;
+    top: 50%;
+    width: 100%;
+    text-align: center;
+    color: black;
+    font-size: 50px;
+    letter-spacing: 8px;
+    text-transform: uppercase;
+}
+.text{
+    font-size: 50px;
+    background: #666;
+    color: white;
+    padding: 20px;
+}
+
+.text2{
+    background-color: red;
+    max-width: 600px;
+    margin: 0 auto;
+    margin-top: 50px;
+    box-shadow: 4px 3px 5px rgba(1, 1, 1, 0.1);
+    color: white;
+    font-size: 20px;
+    letter-spacing: 6px;
+    padding: 20px;
+    border-radius: 50%;
+}
+.straw{
+    text-align: center;
+    padding: 50px 80px;
+    background-color: #282e34;
+    color: #fff;
+}
+
+.pro{
+    font-size: 20px; 
+    line-height: 1.5; 
+    text-align: justify; 
+    padding: 20px; 
+    border:#ccc; 
+    color: white;
+    margin: 20px; 
+}
+.pro1{
+    font-size: 20px; 
+    line-height: 1.5; 
+    text-align: justify; 
+    padding: 20px; 
+    border:#ccc; 
+    color: black;
+    margin: 20px; 
+}
+.luffy{
+    text-align: center;
+    padding: 50px 80px;
+    background-color: black;
+    color: #fff;
+    font-size: medium;
+}
+.roronoa{
+    text-align: center;
+    padding: 50px 80px;
+    background-color:rgb(26, 41, 12) ;
+    color: white;
+    font-size: medium;
+
+}
+.sanji{
+    text-align: center;
+    padding: 50px 80px;
+    background-color:rgb(0, 179, 255) ;
+    color: white;
+    font-size: medium;
+
+}
+.nami{
+    text-align: center;
+    padding: 50px 80px;
+    background-color: orange;
+    color: black;
+    font-size: medium;
+}
+.usopp{
+    text-align: center;
+    padding: 50px 80px;
+    background-color: gray;
+    color: black;
+    font-size: medium;
+}
+.chopper{
+    text-align: center;
+    padding: 50px 80px;
+    background-color: gray;
+    color: black;
+    font-size: medium;
+}
+.robin{
+    text-align: center;
+    padding: 50px 80px;
+    background-color: purple;
+    color: black;
+    font-size: medium;
+}
+.franky{
+    text-align: center;
+    padding: 50px 80px;
+    background-color: mediumslateblue;
+    color: black;
+    font-size: medium;
+}
+.brook{
+    text-align: center;
+    padding: 50px 80px;
+    background-color: snow;
+    color: black;
+    font-size: medium;
+}
+.jimbei{
+    text-align: center;
+    padding: 50px 80px;
+    background-color: seagreen;
+    color: black;
+    font-size: medium;
+}
+
+
